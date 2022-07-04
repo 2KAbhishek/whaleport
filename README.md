@@ -23,29 +23,23 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="whaleport Demo" style="width:100%">
-  <br/>
-  <figcaption>whaleport screenshot</figcaption>
-</figure>
+<h3>Whale portfolio analysis 🐋💸</h3>
 
 </div>
 
 ## What is this
 
-whaleport is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Portfolio analysis of largest investors with Python.
 
 ## Inspiration
 
-whaleport was inspired by `<reason/idea>`.
+Found whale portfolio dataset and wanted to analyze it.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have `python` and `jupyter-notebook` installed.
 
 ## Getting whaleport
 
@@ -54,51 +48,20 @@ To install whaleport, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/whaleport
 cd whaleport
-<install_command>
 ```
 
 ## Using whaleport
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+Explore the dataset and the notebook, tweak parameters and run the notebook.
 
 ## How it was built
 
-whaleport was built using `<tech/library>`
-
-## Challenges faced
-
-While building whaleport the main challenges were `<issue/difficulty>`
+whaleport was built using `jupyter-notebook` and `python`.
 
 ## What I learned
 
-While building whaleport I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- Learned about more financial terms.
+- Learned about some of the largest investors and their portfolios.
 
 Hit the ⭐ button if you found this useful.
 
